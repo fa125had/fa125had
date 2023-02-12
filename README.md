@@ -1,51 +1,38 @@
 # Farshad Abbaspour
 
-## Contact Information
-- Email: your.email@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Website: [Your Personal Website](https://your-website.com)
-
-## Summary
-A brief summary of your experience, skills, and achievements. Keep it concise and to the point.
-
+IT Engineer seeking a career change as a Front-End Developer
+<br />
 ## Skills
-- List your technical and non-technical skills, such as programming languages, tools, and soft skills like communication, leadership, etc.
-- Be specific about your level of proficiency with each skill, such as "Expert in Python" or "Familiar with React".
+
+- HTML5
+- CSS3
+- SCSS
+- JavaScript
+- React
+- Git
+- Responsive Design
+- Cross-Browser Compatibility
+- Strong problem-solving skills
 
 ## Work Experience
-### Company Name
-- Position Title (Duration, e.g. Jan 2018 - Dec 2020)
-- Description of your role and responsibilities
-- Key achievements and impact you made in the role
 
-### Another Company Name
-- Another Position Title (Duration)
-- Another Description of your role and responsibilities
-- Another Key achievements and impact you made in the role
+### Tehran, Iran | 2012 - 2020
+
+IT Engineer
+
+- Designed, implemented, and maintained company's infrastructure and networks.
+- Troubleshot technical issues and provided solutions to improve system stability and performance.
+- Worked with cross-functional teams to design and implement custom software solutions
+- Provided technical support to clients and resolved hardware and software issues in a timely manner.
+- Installed and configured new hardware and software systems.
+- Trained users on the usage of new software and hardware systems.
 
 ## Education
-### Degree Name
-- Institution Name (Graduation Year)
-- Relevant coursework or projects
-- Any awards or honors received
 
-### Another Degree Name
-- Another Institution Name (Graduation Year)
-- Another Relevant coursework or projects
-- Another Awards or honors received
+- Completed courses in Web Development, User Experience Design, and Data Structures and Algorithms April 2022 - Now.
+- Bachelor's Degree in Computer Software Engineering    2006-2010.
 
-## Projects
-### Project Name
-- Description of the project and your role
-- Key technologies used
-- Any impact or results the project achieved
-
-### Another Project Name
-- Another Description of the project and your role
-- Another Key technologies used
-- Another impact or results the project achieved
-
-## Personal Interests
-- A list of your personal interests and hobbies
-- This section can help to demonstrate your personality and character
+<br />
+<br />
+Sincerely,<br />
+Farshad Abbaspour
